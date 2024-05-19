@@ -1,0 +1,121 @@
+.main{
+    border:1px solid black;
+    height:80vh;
+    width:20vw;
+     
+    overflow-y: scroll;
+   
+    position:absolute;
+    background-color:beige;
+    
+
+}
+.first{
+    height:30vh;
+    background-color:beige;
+   
+   
+
+}
+.f1{
+    position:sticky;
+   text-align:center;
+    top:10px; 
+    
+    
+}
+
+.second{
+    height:30vh;
+    background-color:beige;
+  
+}
+.f2{
+    position:sticky;
+    text-align:center;
+    top:10px;
+    
+    
+}
+
+
+ .third{
+    height:30vh;
+    background-color:beige;
+
+}
+.f3{
+    position:sticky;
+    text-align:center;
+    top:10px;
+    
+    
+} 
+
+.fourth{
+    height:30vh;
+   background-color:beige;
+   
+}
+.f4{
+    position:sticky;
+    text-align:center;
+    top:10px;
+    
+    
+}
+
+.five{
+    height:30vh;
+    background-color:beige;
+   
+}
+.f5{
+    position:sticky;
+    text-align:center;
+    top:10px;
+    
+    
+}
+
+.six{
+    height:50vh;
+    background-color:beige;
+ 
+}
+.f6{
+    position:sticky;
+    text-align:center;
+    top:10px;
+    
+    
+}
+/* .cont{
+    margin-top:1px;
+    background-color:rgb(4, 4, 55);
+    color:white;
+    height:40px;
+    display:flex;
+    flex-direction: ;
+    align-items:center;
+    justify-content:center;
+    position:fixed;
+    
+    width:19vw;
+} */
+.ms{
+    border:1px solid green;
+    margin:2px;
+    
+}
+.you{
+    margin-left:20px;
+    background-color:rgb(155, 244, 155);
+    color:black;
+}
+.me{
+    background-color:white;
+    color:black;
+    border:1px solid white;
+}
+

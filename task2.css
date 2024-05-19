@@ -1,0 +1,22 @@
+.main{
+    /* border:1px solid black; */
+    height:120vh;
+    width:40vw;
+    position:absolute;
+}
+.first{
+ height:20vh;
+ 
+}
+.second{
+    height:40vh;
+    position:relative;
+    left:60px;
+}
+.third{
+    height:40vh;
+}
+img{
+    height:40vh;
+    width:40vw;
+}
